@@ -1,8 +1,8 @@
-# Elz_Cosmetic_Database_System
-•This repo contains our term project of CSE3055F22.
+
+
 <div align="center" >
 
-# **CSE3055 Database Systems Term Project Fall 2022 ** 
+# CSE3055 Database Systems Term Project Fall 2022 
 
 <img src="/icons/man.png" width="150">
 
@@ -12,8 +12,10 @@
 <br>
 
 |<img src="/icons/card.png" width="30">   | Name & Surname  |<img src="/icons/github.png" width="30">|
-|150119858|Yasin Çörekci |yasincrkc|
-
+|---|---|---|
+|150119858   |**Yasin Çörekci**  |<a href="https://github.com/yasincorekci/">yasincorekci</a>|
+|150119703   |**Mert Akbal**     |<a href="https://github.com/mertakbl/">mertakbl</a>|
+|150119667  |**Ege Eren Ellez**  |<a href="https://github.com/egeellez/">egeellez</a>|
 
 </div>
 <div align="center" >
@@ -22,9 +24,9 @@
 ### **Progression Status**
 
 
-|Step#1 |Step#2|Step#3|
-|---|---|---|
-|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/soon.png height="60"/>|
+|Step#1 |Step#2|Step#3|Step#4|
+|---|---|---|---|
+|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/soon.png height="60"/>|<img align="center" src=/icons/soon.png height="60"/>|
 
 </div>
 <div align="center">
