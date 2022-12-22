@@ -1,5 +1,5 @@
 # Elz_Cosmetic_Database_System
-•This repo contains our term project of CSE3055F22.
+
 <div align="center" >
 
 # **CSE3055 Database Systems Term Project Fall 2022 ** 
