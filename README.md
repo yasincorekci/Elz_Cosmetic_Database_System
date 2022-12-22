@@ -13,8 +13,9 @@
 
 |<img src="/icons/card.png" width="30">   | Name & Surname  |<img src="/icons/github.png" width="30">|
 |---|---|---|
-|150119858   |**Yasin Çörekci**   |<a href="https://github.com/yasincorekci/">yasincorekci</a>|
-
+|150119858   |**Yasin Çörekci**  |<a href="https://github.com/yasincorekci/">yasincorekci</a>|
+|150119703   |**Mert Akbal**     |<a href="https://github.com/yasincorekci/">yasincorekci</a>|
+|150119667  |**Ege Eren Ellez**  |<a href="https://github.com/yasincorekci/">yasincorekci</a>|
 
 </div>
 <div align="center" >
@@ -23,7 +24,7 @@
 ### **Progression Status**
 
 
-|Step#1 |Step#2|Step#3|
+|Step#1 |Step#2|Step#3|Step#4|
 |---|---|---|
 |<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/soon.png height="60"/>|
 
