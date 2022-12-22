@@ -12,7 +12,8 @@
 <br>
 
 |<img src="/icons/card.png" width="30">   | Name & Surname  |<img src="/icons/github.png" width="30">|
-|150119858|Yasin Çörekci |yasincrkc|
+|---|---|---|
+|150119858   |**Yasin Çörekci**   |<a href="https://github.com/yasincorekci/">yasincorekci</a>|
 
 
 </div>
