@@ -24,7 +24,7 @@
 ### **Progression Status**
 
 
-|Step#1 |Step#2|Step#3|Step#4|
+|Step#1 |Step#2|Step#3|
 |---|---|---|
 |<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/soon.png height="60"/>|
 
