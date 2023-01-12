@@ -17,6 +17,14 @@ This repo contains our term project of CSE3055F22.
 |150119858   |**Yasin Çörekci**  |<a href="https://github.com/yasincorekci/">yasincorekci</a>|
 |150119703   |**Mert Akbal**     |<a href="https://github.com/mertakbl/">mertakbl</a>|
 |150119667  |**Ege Eren Ellez**  |<a href="https://github.com/egeellez/">egeellez</a>|
+## Technologies Used
+### Database Engine
+* Microsoft SQL Server 2019 (15.x)
+
+### Web Interface
+* C#
+* ASP.NET
+* bootstrap
 
 ## Database Diagram
   ![DB_Diagram](https://user-images.githubusercontent.com/81304814/212167380-e2c40231-3d46-48ec-a4a6-dfaa26bfb34b.png)
