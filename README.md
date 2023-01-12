@@ -19,7 +19,7 @@
 |150119667  |**Ege Eren Ellez**  |<a href="https://github.com/egeellez/">egeellez</a>|
 ## Technologies Used
 ### Database Engine
- Microsoft SQL Server 2019 (15.x)
+•Microsoft SQL Server 2019 (15.x)
 
 ### Web Interface
 •C#
