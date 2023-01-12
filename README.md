@@ -19,8 +19,8 @@ This repo contains our term project of CSE3055F22.
 |150119667  |**Ege Eren Ellez**  |<a href="https://github.com/egeellez/">egeellez</a>|
 ## Technologies Used
 ### Database Engine
-* Microsoft SQL Server 2019 (15.x)
-
+* Microsoft SQL Server 2019 
+  
 ### Web Interface
 * C#
 * ASP.NET
