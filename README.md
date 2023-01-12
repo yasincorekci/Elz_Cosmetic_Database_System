@@ -3,7 +3,7 @@
 <div align="center" >
 
 # ELZ_COSMETIC_DATABASE_SYSTEM
-This repo contains our term project of CSE3055F22.
+•This repo contains our term project of CSE3055F22.
   
 <img src="/icons/man.png" width="150">
 
@@ -22,9 +22,9 @@ This repo contains our term project of CSE3055F22.
  Microsoft SQL Server 2019 (15.x)
 
 ### Web Interface
-C#
-ASP.NET
-Bootstrap
+•C#
+•ASP.NET
+•Bootstrap
 
 ## Database Diagram
   ![DB_Diagram](https://user-images.githubusercontent.com/81304814/212167380-e2c40231-3d46-48ec-a4a6-dfaa26bfb34b.png)
