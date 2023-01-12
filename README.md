@@ -17,3 +17,5 @@
 |150119703   |**Mert Akbal**     |<a href="https://github.com/mertakbl/">mertakbl</a>|
 |150119667  |**Ege Eren Ellez**  |<a href="https://github.com/egeellez/">egeellez</a>|
 
+# Database Diagram
+  ![DB_Diagram](https://user-images.githubusercontent.com/81304814/212167380-e2c40231-3d46-48ec-a4a6-dfaa26bfb34b.png)
