@@ -19,12 +19,12 @@ This repo contains our term project of CSE3055F22.
 |150119667  |**Ege Eren Ellez**  |<a href="https://github.com/egeellez/">egeellez</a>|
 ## Technologies Used
 ### Database Engine
-* Microsoft SQL Server 2019 
-  
+ Microsoft SQL Server 2019 (15.x)
+
 ### Web Interface
-* C#
-* ASP.NET
-* bootstrap
+C#
+ASP.NET
+Bootstrap
 
 ## Database Diagram
   ![DB_Diagram](https://user-images.githubusercontent.com/81304814/212167380-e2c40231-3d46-48ec-a4a6-dfaa26bfb34b.png)
