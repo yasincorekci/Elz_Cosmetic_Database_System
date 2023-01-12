@@ -3,8 +3,8 @@
 <div align="center" >
 
 # CSE3055 Database Systems Term Project Fall 2022 
-
-
+  
+<img src="/icons/man.png" width="150">
 
 <br>
 
