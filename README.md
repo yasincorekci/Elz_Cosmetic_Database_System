@@ -3,7 +3,7 @@
 <div align="center" >
 
 # ELZ_COSMETIC_DATABASE_SYSTEM
-•This repo contains our term project of CSE3055F22.
+•This repo contains our term project of CSE3055F'22.
   
 <img src="/icons/man.png" width="150">
 
