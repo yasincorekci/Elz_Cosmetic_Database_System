@@ -17,9 +17,9 @@
 |150119858   |**Yasin Çörekci**  |<a href="https://github.com/yasincorekci/">yasincorekci</a>|
 |150119703   |**Mert Akbal**     |<a href="https://github.com/mertakbl/">mertakbl</a>|
 |150119667  |**Ege Eren Ellez**  |<a href="https://github.com/egeellez/">egeellez</a>|
-## Technologies Used
+## ✓ Technologies Used
 ### Database Engine
-•Microsoft SQL Server 2019 (15.x)
+•Microsoft SQL Server 2019 
 
 ### Web Interface
 •C#
